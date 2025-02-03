@@ -65,6 +65,6 @@ Greetings! I am **Muhammad Abdul Rehman Khan**, a dedicated and detail-oriented 
 
 ### 🔗 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadabdulrehmankhanofficial/)  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Badge-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/abdulrehmankhan) [![LinkedIn](https://img.shields.io/badge/WEBSITE-VISIT_NOW-green?style=for-the-badge&logo=globe)](https://mabdulrehmankhan.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadabdulrehmankhanofficial/)  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Badge-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/m4rk3rXpl0it) [![LinkedIn](https://img.shields.io/badge/WEBSITE-VISIT_NOW-green?style=for-the-badge&logo=globe)](https://m4rk3rxpl0it.github.io/)
 
 ---  
