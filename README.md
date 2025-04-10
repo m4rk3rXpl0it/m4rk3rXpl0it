@@ -1,6 +1,6 @@
 # 💀 MUHAMMAD ABDUL REHMAN KHAN 🛡️  
 
-**`CYBERSECURITY ANALYST | BLUE TEAM SPECIALIST | SECURITY RESEARCHER`**
+**`CYBERSECURITY ANALYST | BLUE TEAM SPECIALIST | SECURITY RESEARCHER | CYBER DEFENDER`**
 
 Greetings! I am **Muhammad Abdul Rehman Khan**, a dedicated and detail-oriented cybersecurity analyst specializing in SOC (Security Operations Center) operations, threat detection, incident response, and proactive defense strategies. With a strong foundation in Blue Team operations, I excel at leveraging cutting-edge tools and methodologies to identify vulnerabilities, mitigate risks, and secure digital ecosystems. My mission is to strengthen organizations' security postures through expertise, continuous learning, and innovation.  
 
